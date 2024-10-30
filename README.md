@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hi! I'm Gigi and I'm currently studying in the Developers Institute to become a full stack developer!
 <!--
 **gigi007-prog/gigi007-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
